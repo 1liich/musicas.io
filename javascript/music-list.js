@@ -3,13 +3,13 @@ let allMusic = [
         name: "Happier Than Ever",
         artist: "Billie Eilish",
         img: "adventuretime",
-        link: "https://ia600107.us.archive.org/27/items/happierthaneverrr/happierthanever.mp3"
+        src: "happierthanever"
     },
     {
         name: "Lo-fi Beat - Arcane",
         artist: "Samuel Kim",
         img: "arcane",
-        src: "arcane"
+        link: "https://ia600107.us.archive.org/27/items/happierthaneverrr/happierthanever.mp3" // Música externa
     },
     {
         name: "Lo-fi Beat - Blind In Love",
