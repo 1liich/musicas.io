@@ -8,7 +8,7 @@ let allMusic = [
     {
         name: "Colors",
         artist: "Halsey",
-        img: "arcane",
+        img: "Halsey-Colors",
         link: "https://ia800109.us.archive.org/13/items/harsseei/Halsey.mp3"
     },
     {
