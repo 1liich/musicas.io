@@ -6,10 +6,10 @@ let allMusic = [
         link: "https://ia600107.us.archive.org/27/items/happierthaneverrr/happierthanever.mp3" // Música externa
     },
     {
-        name: "Lo-fi Beat - Arcane",
-        artist: "Samuel Kim",
+        name: "Colors",
+        artist: "Halsey",
         img: "arcane",
-        src: "arcane"
+        link: "https://ia800109.us.archive.org/13/items/harsseei/Halsey.mp3"
     },
     {
         name: "Lo-fi Beat - Blind In Love",
