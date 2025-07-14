@@ -398,3 +398,21 @@ ul li.playing {
 .is-dark .row .title-music {
     color: var(--white-mode);
 }
+
+.footer-dev {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background: #ffffff00;
+    padding: 10px 0;
+    font-size: 14px;
+    color: #888;
+    box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.05);
+    z-index: 10;
+}
+
+.footer-dev .dev-name {
+    color: #007bff; /* Substitua por qualquer cor que quiser */
+    font-weight: 500;
+}
