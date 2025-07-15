@@ -42,10 +42,10 @@ let allMusic = [
         link: "https://ia903106.us.archive.org/23/items/pretty-girl--rpwdv-f-4j-ry-045r/Maggie%20Lindemann%20-%20Pretty%20Girl%20%28Tradu%C3%A7%C3%A3o%29%20%28Clipe%20Legendado%29%20%5BrpwdvF4jRy0%5D.mp3"
     },
     {
-        name: "Lo-fi Beat - Gravity Falls",
-        artist: "L.Dre",
-        img: "gravityfalls",
-        src: "gravityfalls"
+        name: "WILDFLOWER",
+        artist: "Billie Eilish",
+        img: "wild",
+        link: "https://ia600903.us.archive.org/34/items/wildflower-legendadoh-5w-4-wjyy-xvk/Billie%20Eilish%20-%20WILDFLOWER%20%28Legendado%20%EF%BD%9C%20Lyrics%20%2B%20Tradu%C3%A7%C3%A3o%29%20%5Bh5w4WJyyXVk%5D.mp3"
     },
     {
         name: "Lo-fi Beat - I Need a Girl",
