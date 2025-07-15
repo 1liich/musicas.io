@@ -48,10 +48,10 @@ let allMusic = [
         link: "https://ia600903.us.archive.org/34/items/wildflower-legendadoh-5w-4-wjyy-xvk/Billie%20Eilish%20-%20WILDFLOWER%20%28Legendado%20%EF%BD%9C%20Lyrics%20%2B%20Tradu%C3%A7%C3%A3o%29%20%5Bh5w4WJyyXVk%5D.mp3"
     },
     {
-        name: "Lo-fi Beat - I Need a Girl",
-        artist: "Lee",
-        img: "ineedagirl",
-        src: "ineedagirl"
+        name: "Cry",
+        artist: "Cigarettes After Sex ",
+        img: "cas",
+        link: "https://ia601901.us.archive.org/24/items/cigarettes-after-sex-cry-traducao-legendado-n-xeu-a-9-umi-x-8/Cigarettes%20After%20Sex%20-%20Cry%20%28Tradu%C3%A7%C3%A3o%E2%A7%B8Legendado%29%20%5BnXEuA9UmiX8%5D.mp3"
     },
     {
         name: "Lo-fi Beat - Lovely",
