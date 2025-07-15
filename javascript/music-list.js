@@ -27,7 +27,7 @@ let allMusic = [
         name: "Kiss Me Until My Lips Fall Off",
         artist: "Lebanon Hanover",
         img: "kiss",
-        linkc: "https://ia601707.us.archive.org/11/items/kiisssmeref/lebanon%20hanover%20-%20kiss%20me%20until%20my%20lips%20fall%20off%20%28tradu%C3%A7%C3%A3o%E2%A7%B8legendado%29%20%5Bv_WPLnjyHAQ%5D.mp3"
+        link: "https://ia601707.us.archive.org/11/items/kiisssmeref/lebanon%20hanover%20-%20kiss%20me%20until%20my%20lips%20fall%20off%20%28tradu%C3%A7%C3%A3o%E2%A7%B8legendado%29%20%5Bv_WPLnjyHAQ%5D.mp3"
     },
     {
         name: "Lo-fi Beat - Dreaming of You",
