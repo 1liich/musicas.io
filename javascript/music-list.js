@@ -20,7 +20,7 @@ let allMusic = [
     {
         name: "Reflections",
         artist: "The Neighbourhood ",
-        link: "https://raw.githubusercontent.com/1liich/musicas.io/refs/heads/main/img/theeee.jpeg",
+        img: "theeee",
         link: "https://ia601407.us.archive.org/12/items/the-rerererererererereore/the%20neighbourhood%20-%20reflections%20%28legendado%29%20%5Bvx_dtLXJ7SI%5D.mp3"
     },
     {
