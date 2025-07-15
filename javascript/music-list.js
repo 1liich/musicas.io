@@ -33,7 +33,7 @@ let allMusic = [
         name: "join me in death",
         artist: "HIM",
         img: "him",
-        src: "https://ia902902.us.archive.org/34/items/him-join-me-in-death-traducaolegendado-pd-qw-8-usu-io/him%20-%20join%20me%20in%20death%20%28tradu%C3%A7%C3%A3o%E2%A7%B8legendado%29%20%5BpdQw8-USuIo%5D.mp3"
+        link: "https://ia902902.us.archive.org/34/items/him-join-me-in-death-traducaolegendado-pd-qw-8-usu-io/him%20-%20join%20me%20in%20death%20%28tradu%C3%A7%C3%A3o%E2%A7%B8legendado%29%20%5BpdQw8-USuIo%5D.mp3"
     },
     {
         name: "Lo-fi Beat - 90's Freestyle",
