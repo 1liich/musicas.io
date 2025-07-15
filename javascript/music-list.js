@@ -18,10 +18,10 @@ let allMusic = [
         link: "https://ia800702.us.archive.org/8/items/hvh_20250212/HXVRMXN%20-%20%E3%82%B9%E3%83%94%E3%83%BC%E3%83%89%E3%83%87%E3%83%BC%E3%83%A2%E3%83%B3.mp3"
     },
     {
-        name: "Lo-fi Beat - Blue Moon",
-        artist: "Eric Godlow",
-        img: "bluemoon",
-        src: "bluemoon"
+        name: "Reflections",
+        artist: "The Neighbourhood ",
+        img: "theeee",
+        link: "https://ia601407.us.archive.org/12/items/the-rerererererererereore/the%20neighbourhood%20-%20reflections%20%28legendado%29%20%5Bvx_dtLXJ7SI%5D.mp3"
     },
     {
         name: "Lo-fi Beat - Close To You",
