@@ -36,10 +36,10 @@ let allMusic = [
         link: "https://ia902902.us.archive.org/34/items/him-join-me-in-death-traducaolegendado-pd-qw-8-usu-io/him%20-%20join%20me%20in%20death%20%28tradu%C3%A7%C3%A3o%E2%A7%B8legendado%29%20%5BpdQw8-USuIo%5D.mp3"
     },
     {
-        name: "Lo-fi Beat - 90's Freestyle",
-        artist: "Yusei",
-        img: "freestyle",
-        src: "freestyle"
+        name: " Pretty Girl",
+        artist: "Maggie Lindemann",
+        img: "pretty",
+        link: "https://ia903106.us.archive.org/23/items/pretty-girl--rpwdv-f-4j-ry-045r/Maggie%20Lindemann%20-%20Pretty%20Girl%20%28Tradu%C3%A7%C3%A3o%29%20%28Clipe%20Legendado%29%20%5BrpwdvF4jRy0%5D.mp3"
     },
     {
         name: "Lo-fi Beat - Gravity Falls",
