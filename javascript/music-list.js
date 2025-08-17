@@ -54,10 +54,10 @@ let allMusic = [
         link: "https://ia601901.us.archive.org/24/items/cigarettes-after-sex-cry-traducao-legendado-n-xeu-a-9-umi-x-8/Cigarettes%20After%20Sex%20-%20Cry%20%28Tradu%C3%A7%C3%A3o%E2%A7%B8Legendado%29%20%5BnXEuA9UmiX8%5D.mp3"
     },
     {
-        name: "Lo-fi Beat - Lovely",
-        artist: "Eric Godlow",
-        img: "lovely",
-        src: "lovely"
+        name: "Heaven Tonight",
+        artist: "HIM",
+        img: "HV",
+        link: "https://ia601008.us.archive.org/16/items/he0ve3n-t0nigh1-ge-d-6r-ecyx-2w/Heaven%20Tonight%20%5BgeD6rECYX2w%5D.mp3"
     },
     {
         name: "Lo-fi Beat - Mortified",
